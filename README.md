@@ -11,4 +11,4 @@ Tool to directly download the assets (images, videos, js) from a web page.
 If anything else is missing in requirements.txr, let me know and I'll update it.
 
 # Collaborations
-Feel free to send a pull request to improve the code, we will be in contact about possible improvements we could make to the code. There is no rule to follow.
+Feel free to send a pull request to improve the code, obviously, I will review any pull for its proper functioning. There is no rule to follow.
