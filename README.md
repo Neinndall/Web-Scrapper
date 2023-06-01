@@ -1,4 +1,4 @@
-# WEB_Scrapper
+# Web-Scrapper
 Tool to directly download the assets (images, videos, js) from a web page.
 
 # What do you need?
