@@ -7,7 +7,7 @@ Tool to directly download the assets (images, videos, js) from a web page.
 # How to use it
 - Open CMD
 - cd <url to the folder>
-- '''pip install -r requirements.txt'''
+- pip install -r requirements.txt
 
 If anything else is missing, let me know and I'll update it.
 
