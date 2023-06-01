@@ -12,4 +12,4 @@ Tool to directly download the assets (images, videos, js) from a web page.
 If anything else is missing, let me know and I'll update it.
 
 # Collaborations
-Feel free to send a pull request to improve the code, we will be in touch about possible improvements we could make to the code. There is no rule to follow.
+Feel free to send a pull request to improve the code, we will be in contact about possible improvements we could make to the code. There is no rule to follow.
